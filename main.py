@@ -6,4 +6,4 @@ results = float_comm * 13 / 100
 print(round(results, 2))
 print(f'Hello {name}, you have earned ${results} this month.')
 #we finished
-#si
+#bro why isn't it going on github this is crazy
